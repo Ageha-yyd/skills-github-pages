@@ -1,6 +1,6 @@
 ---
 title: a day learing
-date：2026-5-20
+date: 2026-5-20
 ---
 #What I want to do right now?
 I just want to go off the class, and go to my room to play Delta Force right now.
